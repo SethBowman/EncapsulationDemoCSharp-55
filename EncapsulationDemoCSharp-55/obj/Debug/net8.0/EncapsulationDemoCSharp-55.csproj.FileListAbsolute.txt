@@ -1,0 +1,14 @@
+C:\Users\sethb\OneDrive\Desktop\repos\EncapsulationDemoCSharp-55\EncapsulationDemoCSharp-55\bin\Debug\net8.0\EncapsulationDemoCSharp-55.exe
+C:\Users\sethb\OneDrive\Desktop\repos\EncapsulationDemoCSharp-55\EncapsulationDemoCSharp-55\bin\Debug\net8.0\EncapsulationDemoCSharp-55.deps.json
+C:\Users\sethb\OneDrive\Desktop\repos\EncapsulationDemoCSharp-55\EncapsulationDemoCSharp-55\bin\Debug\net8.0\EncapsulationDemoCSharp-55.runtimeconfig.json
+C:\Users\sethb\OneDrive\Desktop\repos\EncapsulationDemoCSharp-55\EncapsulationDemoCSharp-55\bin\Debug\net8.0\EncapsulationDemoCSharp-55.dll
+C:\Users\sethb\OneDrive\Desktop\repos\EncapsulationDemoCSharp-55\EncapsulationDemoCSharp-55\bin\Debug\net8.0\EncapsulationDemoCSharp-55.pdb
+C:\Users\sethb\OneDrive\Desktop\repos\EncapsulationDemoCSharp-55\EncapsulationDemoCSharp-55\obj\Debug\net8.0\EncapsulationDemoCSharp-55.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sethb\OneDrive\Desktop\repos\EncapsulationDemoCSharp-55\EncapsulationDemoCSharp-55\obj\Debug\net8.0\EncapsulationDemoCSharp-55.AssemblyInfoInputs.cache
+C:\Users\sethb\OneDrive\Desktop\repos\EncapsulationDemoCSharp-55\EncapsulationDemoCSharp-55\obj\Debug\net8.0\EncapsulationDemoCSharp-55.AssemblyInfo.cs
+C:\Users\sethb\OneDrive\Desktop\repos\EncapsulationDemoCSharp-55\EncapsulationDemoCSharp-55\obj\Debug\net8.0\EncapsulationDemoCSharp-55.csproj.CoreCompileInputs.cache
+C:\Users\sethb\OneDrive\Desktop\repos\EncapsulationDemoCSharp-55\EncapsulationDemoCSharp-55\obj\Debug\net8.0\EncapsulationDemoCSharp-55.dll
+C:\Users\sethb\OneDrive\Desktop\repos\EncapsulationDemoCSharp-55\EncapsulationDemoCSharp-55\obj\Debug\net8.0\refint\EncapsulationDemoCSharp-55.dll
+C:\Users\sethb\OneDrive\Desktop\repos\EncapsulationDemoCSharp-55\EncapsulationDemoCSharp-55\obj\Debug\net8.0\EncapsulationDemoCSharp-55.pdb
+C:\Users\sethb\OneDrive\Desktop\repos\EncapsulationDemoCSharp-55\EncapsulationDemoCSharp-55\obj\Debug\net8.0\EncapsulationDemoCSharp-55.genruntimeconfig.cache
+C:\Users\sethb\OneDrive\Desktop\repos\EncapsulationDemoCSharp-55\EncapsulationDemoCSharp-55\obj\Debug\net8.0\ref\EncapsulationDemoCSharp-55.dll
